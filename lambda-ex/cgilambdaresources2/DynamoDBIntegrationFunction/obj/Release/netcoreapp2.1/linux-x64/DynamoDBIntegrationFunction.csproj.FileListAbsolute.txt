@@ -1,0 +1,11 @@
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\bin\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.deps.json
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\bin\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.runtimeconfig.json
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\bin\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.runtimeconfig.dev.json
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\bin\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.dll
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\bin\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.pdb
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.csprojAssemblyReference.cache
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.csproj.CoreCompileInputs.cache
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.AssemblyInfoInputs.cache
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.AssemblyInfo.cs
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.dll
+C:\DevOps\AWS\Demonstrations\DynamoDBIntegrationFunctionSolution\DynamoDBIntegrationFunction\obj\Release\netcoreapp2.1\linux-x64\DynamoDBIntegrationFunction.pdb

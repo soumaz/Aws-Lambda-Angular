@@ -1,0 +1,24 @@
+{
+  "name": "ngclient-dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es2015-polyfills.1e04665e16f944715fd2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 7070"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iomegak12/ngclient-dist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iomegak12/ngclient-dist/issues"
+  },
+  "homepage": "https://github.com/iomegak12/ngclient-dist#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.csprojAssemblyReference.cache
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.AssemblyInfoInputs.cache
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.AssemblyInfo.cs
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\bin\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.deps.json
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\bin\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.runtimeconfig.json
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\bin\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.runtimeconfig.dev.json
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\bin\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.dll
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\bin\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.pdb
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.dll
+C:\Users\Administrator\practices\lambda-ex\cgilambdaresources2\DynamoDBIntegrationFunction\obj\Debug\netcoreapp2.1\DynamoDBIntegrationFunction.pdb
