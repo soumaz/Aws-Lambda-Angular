@@ -1,6 +1,6 @@
-accessKey = "AKIAI74OS4KJ7AC72OQA"
+accessKey = ""
 
-secretKey = "k2SyZdTaoJTQ4K16wSu1cncbxfksspPKM7mAaYXg"
+secretKey = ""
 
 region = "ap-south-1"
 
